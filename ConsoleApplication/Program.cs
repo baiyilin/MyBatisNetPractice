@@ -9,6 +9,8 @@ namespace ConsoleApplication
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Fisrt Virsion");
+
         }
     }
 }
