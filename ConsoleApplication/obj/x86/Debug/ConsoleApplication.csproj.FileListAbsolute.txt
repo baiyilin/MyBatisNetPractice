@@ -1,0 +1,6 @@
+E:\PrivateSource\MyGitHub\MyBatisNetPractice\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+E:\PrivateSource\MyGitHub\MyBatisNetPractice\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+E:\PrivateSource\MyGitHub\MyBatisNetPractice\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+E:\PrivateSource\MyGitHub\MyBatisNetPractice\ConsoleApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\PrivateSource\MyGitHub\MyBatisNetPractice\ConsoleApplication\obj\x86\Debug\ConsoleApplication.exe
+E:\PrivateSource\MyGitHub\MyBatisNetPractice\ConsoleApplication\obj\x86\Debug\ConsoleApplication.pdb
